@@ -87,6 +87,7 @@ p{
     box-shadow: 10px dimgray;
 }  
 footer{
+    
     text-align: center;
 
 } 
@@ -112,7 +113,7 @@ header a{
 
 .connect{
     width: 100%;
-    height: 600px;
+    height: 300px;
     background-image: url(images/Group_33094_1.png);
     background-position: center ;
     background-size: 60%;
@@ -121,8 +122,8 @@ header a{
     
 }
 .half-width h4{
-    font-size: 50px;
-    margin: 150px 0px 0px 270px;
+    font-size: 40px;
+    margin: 12px 0px 0px 270px;
     
 }
 .half-width a{
